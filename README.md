@@ -24,3 +24,8 @@ Este sistema tiene como finalidad gestionar el funcionamiento de una **Peluquer√
 
 <img src="https://github.com/elavincho/PeluqueriaCanina/blob/master/img/Captura_de_pantalla_1.png" width="200" height="200" alt="img"/>                      <img src="https://github.com/elavincho/PeluqueriaCanina/blob/master/img/Captura_de_pantalla_2.png" width="200" height="200" alt="img"/>                          <img src="https://github.com/elavincho/PeluqueriaCanina/blob/master/img/Captura_de_pantalla_3.png" width="200" height="200" alt="img"/>                          <img src="https://github.com/elavincho/PeluqueriaCanina/blob/master/img/Captura_de_pantalla_4.png" width="200" height="200" alt="img"/>                          <img src="https://github.com/elavincho/PeluqueriaCanina/blob/master/img/Captura_de_pantalla_5.png" width="200" height="200" alt="img"/>
                           <img src="https://github.com/elavincho/PeluqueriaCanina/blob/master/img/Captura_de_pantalla_6.png" width="200" height="200" alt="img"/>
+
+
+## Video del proyecto
+
+[![Video tutorial](https://github.com/elavincho/CalculadoraJavaSwing/blob/master/img/img_video.png)](https://youtu.be/CRE3h-WgKbA)
