@@ -28,4 +28,4 @@ Este sistema tiene como finalidad gestionar el funcionamiento de una **Peluquer√
 
 ## Video del proyecto
 
-[![Video tutorial](https://github.com/elavincho/CalculadoraJavaSwing/blob/master/img/img_video.png)](https://youtu.be/CRE3h-WgKbA)
+[![Video tutorial](https://github.com/elavincho/PeluqueriaCanina/blob/master/img/img_video.png)](https://youtu.be/CRE3h-WgKbA)
