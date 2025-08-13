@@ -14,7 +14,7 @@ Este sistema tiene como finalidad gestionar el funcionamiento de una **Peluquer√
 - Alta
 - Baja
 - Modificaci√≥n
-- Vista
+- Lectura
 
 ## Requisitos del Sistema
 - Java 21 o superior
