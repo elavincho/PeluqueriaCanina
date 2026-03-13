@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co/prWKFsfY/calculadora.png" width="100" height="75" alt="calculadora"/>
+<img src="https://i.ibb.co/kVj1hQNv/img-video.png" width="100" height="75" alt="calculadora"/>
 
 # Aplicación de Escritorio para una **Peluquería Canina**
 
