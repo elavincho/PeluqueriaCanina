@@ -1,3 +1,5 @@
+<img src="https://i.ibb.co/prWKFsfY/calculadora.png" width="100" height="75" alt="calculadora"/>
+
 # Aplicación de Escritorio para una **Peluquería Canina**
 
 Este proyecto es un sistema para la administración de una **Peluquería Canina** el cual permite la carga de datos de las mascotas y los datos del dueño.  
