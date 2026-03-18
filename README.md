@@ -33,9 +33,3 @@ Este sistema tiene como finalidad gestionar el funcionamiento de una **Peluquer√
 [![Video tutorial](https://github.com/elavincho/PeluqueriaCanina/blob/master/img/img_video.png)](https://youtu.be/RNzwkqrmLwc)
 
 
-
-
-
-
-
-
